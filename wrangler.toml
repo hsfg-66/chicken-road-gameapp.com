@@ -1,0 +1,11 @@
+name = "chicken-road-gameapp-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chicken-road-gameapp.com"
+HMAC_KEY = "7cc2d0dfe281a40855d83212514e6694f302745c7b8dc9fa5ef7b62666a74438"
+COOKIE_NAME = "2nb"
+PLAY_PATH = "try-now"
+BUTTON_ID = "pb8bf8e2cbe436641e016d3a0e401df5b"
+GATE_SALT = "69e20a6e1bdfe9ce"
